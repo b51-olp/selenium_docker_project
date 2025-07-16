@@ -7,3 +7,4 @@ mss
 imageio[ffmpeg]
 webdriver-manager
 requests
+1
