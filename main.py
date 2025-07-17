@@ -27,7 +27,6 @@ def create_chrome_options():
     return options
 
 
-
 # Di chuyển chuột ngẫu nhiên
 def random_mouse_move(driver):
     try:
