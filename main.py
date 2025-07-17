@@ -172,3 +172,4 @@ def run_main_selenium():
       driver.quit()
 
 run_main_selenium()
+run_main_selenium()
